@@ -11,4 +11,4 @@ switch ($method) {
   case 'GET':
     echo '{"message":"helloworld"}'
 }
- 
+?>
